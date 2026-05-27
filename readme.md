@@ -1,10 +1,10 @@
-# AI-Powered Career Skill Gap Detector🚀
+# AI-Powered Career Skill Gap Detector
 
 A sophisticated full-stack career development platform built with the **MERN stack** and **Google Gemini AI**, featuring a high-fidelity UI enhanced using **Lovable**. This application automates the process of identifying professional skill gaps and provides users with a data-driven roadmap to achieve industry readiness.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 -  **AI Requirement Extraction**  
   Integrated Google Gemini AI to parse unstructured job descriptions into structured technical requirement lists.
@@ -29,7 +29,7 @@ A sophisticated full-stack career development platform built with the **MERN sta
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js  
@@ -56,7 +56,7 @@ A sophisticated full-stack career development platform built with the **MERN sta
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 
@@ -104,7 +104,7 @@ npm run dev
 
 ---
 
-## 🎯 Usage
+## Usage
 
 - **Skill Match:**  
   Select a target role to view compatibility score and missing skills.
@@ -120,7 +120,7 @@ npm run dev
 
 ---
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
 - Real-time job market trend analysis  
 - Resume parsing and auto skill extraction  
@@ -129,6 +129,6 @@ npm run dev
 
 ---
 
-## 💡 Key Insight
+## Key Insight
 
 > This platform leverages AI to transform career planning into a data-driven, personalized experience, helping users bridge skill gaps efficiently.
