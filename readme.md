@@ -131,4 +131,4 @@ npm run dev
 
 ## Key Insight
 
-> This platform leverages AI to transform career planning into a data-driven, personalized experience, helping users bridge skill gaps efficiently.
+This platform leverages AI to transform career planning into a data-driven, personalized experience, helping users bridge skill gaps efficiently.
